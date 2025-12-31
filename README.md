@@ -99,55 +99,120 @@ public class Mutahar extends SalesforceExpert {
 
 ## 🌟 Featured Projects
 
-### 🤖 AI-Powered Email Processing & Classification
-> **Intelligent automation that revolutionized document handling**
+### 🔄 Renewal Navigator
+> **Unified dashboard consolidating contract renewals across multiple types**
 
-**The Challenge:** Manual image categorization causing bottlenecks  
-**The Solution:** AWS Bedrock AI integration with automated ZIP organization  
-**The Impact:** 95% accuracy improvement, 80% time reduction
+**The Challenge:** Fragmented contract visibility across Autodesk Opportunities, Support Contracts, and Subscriptions  
+**The Solution:** Custom LWC with real-time tracking and advanced filtering  
+**The Impact:** Centralized renewal management, improved visibility
 
-`#AWS` `#Einstein` `#MachineLearning` `#Automation`
+`#LWC` `#Dashboard` `#ContractManagement` `#RealTime`
 
-[View Case Study →](#)
-
----
-
-### ⚡ High-Performance LWC Dashboard (6,000+ Records)
-> **Blazing-fast user experience with massive datasets**
-
-**The Challenge:** Performance degradation with large data volumes  
-**The Solution:** Virtual scrolling, lazy loading, optimized SOQL  
-**The Impact:** Sub-second load times, 10x performance improvement
-
-`#LWC` `#Performance` `#Optimization` `#UX`
-
-[View Case Study →](#)
+[View Case Study →](https://github.com/Mutahar1/custom-lwc-redesigning)
 
 ---
 
-### 🔄 Intelligent Renewal Management System
-> **Hierarchical filtering that transformed contract workflows**
+### 📹 Amazon Chime SDK Integration
+> **Real-time video conferencing embedded in Salesforce**
 
-**The Challenge:** Complex renewal processes across organizational hierarchies  
-**The Solution:** Smart filtering with role-based visibility  
-**The Impact:** 80% faster processing, improved accuracy
+**The Challenge:** Need for integrated video meetings without leaving Salesforce  
+**The Solution:** Amazon Chime SDK integration with meeting recording  
+**The Impact:** Seamless video conferencing within platform
 
-`#Apex` `#Architecture` `#BusinessLogic` `#Efficiency`
+`#Integration` `#AWS` `#VideoConferencing` `#API`
 
-[View Case Study →](#)
+[View Case Study →](https://github.com/Mutahar1/amazon-chime-salesforce)
 
 ---
 
-### 🏥 Healthcare Authorization & Consent Platform
-> **HIPAA-compliant solution for sensitive data management**
+### 🤖 AI-Powered Case Summary System
+> **Einstein AI automatically identifies and summarizes related cases**
 
-**The Challenge:** Managing complex healthcare authorizations securely  
-**The Solution:** Trigger framework with field-level encryption  
-**The Impact:** 100% compliance, streamlined workflows
+**The Challenge:** Incomplete case summaries missing related case context  
+**The Solution:** Einstein AI with Prompt Builder for semantic analysis  
+**The Impact:** Comprehensive case resolution through intelligent summaries
 
-`#HealthCloud` `#Security` `#Compliance` `#Integration`
+`#EinsteinAI` `#PromptBuilder` `#Automation` `#AI`
 
-[View Case Study →](#)
+[View Case Study →](https://github.com/Mutahar1/agentforce-ai-case-summary)
+
+---
+
+### 🏘️ Real Estate Property Experience Portal
+> **Interactive property listings with advanced map integration**
+
+**The Challenge:** Static property listings lacking engagement  
+**The Solution:** Responsive LWC with map integration and filtering  
+**The Impact:** Enhanced user experience, improved property discovery
+
+`#ExperienceCloud` `#LWC` `#Maps` `#RealEstate`
+
+[View Case Study →](https://github.com/Mutahar1/property-experience-portal)
+
+---
+
+### 💳 Payment Gateway Integration System
+> **Secure financial transactions directly within Salesforce**
+
+**The Challenge:** External payment platforms disrupting user workflow  
+**The Solution:** Native payment gateway with secure transaction processing  
+**The Impact:** Eliminated external platforms, streamlined payments
+
+`#Integration` `#PaymentGateway` `#Security` `#FinTech`
+
+[View Case Study →](https://github.com/Mutahar1/payment-gateway-integration)
+
+---
+
+### 📧 Email to SObject Threading
+> **Custom email threading for Account-level conversation tracking**
+
+**The Challenge:** No native email threading for Account records  
+**The Solution:** Custom threading replicating Email-to-Case functionality  
+**The Impact:** Organized email conversations at Account level
+
+`#Apex` `#EmailServices` `#CustomObjects` `#Automation`
+
+[View Case Study →](https://github.com/Mutahar1/email-threading-system)
+
+---
+
+### 📊 Pardot-Salesforce Integration & Marketing Automation
+> **Seamless mass email automation and lead engagement tracking**
+
+**The Challenge:** Disconnected marketing and sales lead tracking  
+**The Solution:** Pardot integration with automated lead scoring  
+**The Impact:** Unified lead engagement across teams
+
+`#MarketingCloud` `#Pardot` `#Integration` `#LeadManagement`
+
+[View Case Study →](https://github.com/Mutahar1/pardot-salesforce-integration)
+
+---
+
+### Contractor Management System
+> **Centralized contractor information and approval workflows**
+
+**The Challenge:** Fragmented contractor data across multiple layouts  
+**The Solution:** Custom LWC consolidating contractor details and documents  
+**The Impact:** Reduced navigation time, improved efficiency
+
+`#LWC` `#WorkflowAutomation` `#DocumentManagement` `#UI`
+
+[View Case Study →](https://github.com/Mutahar1/contractor-management-system)
+
+---
+
+### 📈 CRM Analytics Sales Performance Dashboard
+> **Real-time sales insights and revenue analytics for leadership**
+
+**The Challenge:** Limited executive visibility into sales performance  
+**The Solution:** CRM Analytics dashboard with custom metrics  
+**The Impact:** Data-driven decision making for leadership
+
+`#CRMAnalytics` `#TableauCRM` `#Dashboards` `#Analytics`
+
+[View Case Study →](https://github.com/Mutahar1/sales-analytics-dashboard)
 
 ---
 
